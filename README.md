@@ -17,15 +17,15 @@ HostKVM 日本 VPS，接入 SoftBank、KDDI、NTT、IIJ 网络。适合主要对
 > 3天内退款保障。
 > 
 
-# **Rank Star**
+## **Rank Star**
 
 ⭐⭐⭐⭐
 
-# **官方网站**
+## **官方网站**
 
 [点击直达](https://my.hostkvm.com/aff.php?aff=1327)
 
-# 订阅列表
+## 订阅列表
 
 | CPU | 内存 | 磁盘 | 流量/月 | 速率 | 价格/月 |
 | --- | --- | --- | --- | --- | --- |
@@ -34,20 +34,20 @@ HostKVM 日本 VPS，接入 SoftBank、KDDI、NTT、IIJ 网络。适合主要对
 | 2 Cores | 6 GB | 60 GB | 1500 GB | 100 Mbps | $ 15.00 |
 | 4 Cores | 8 GB | 100 GB | 3000 GB | 100 Mbps | $ 35.00 |
 
-# 优惠促销
+## 优惠促销
 
 - 8折优惠码，全场通用，长期有效： hostkvm
 - 7折优惠码 ，仅限月付，仅限香港CTG区：2024hk30offM
 - 6折优惠码 ，仅限年付，仅限香港CTG区：2024hk40offY
 
-# 基准测试
+## 基准测试
 
 （即将到来）
 
-# 路由追踪
+## 路由追踪
 
 （即将到来）
 
-# 测试IP
+## 测试IP
 
 （即将到来）
